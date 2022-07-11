@@ -1,6 +1,6 @@
  
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm tuyishimejeandamour</h1>
-<h3 align="left">I am a mobile Developer  </h3>
+<h3 align="left">I am a fullstack Developer  </h3>
 
 
 - :office: &nbsp;I'm currently working at **Kort**
